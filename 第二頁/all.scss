@@ -70,6 +70,11 @@
                 padding-bottom: 54px;
                 .users-all{
                     justify-content: space-between;
+                    a:hover{
+                        background: #56C4C5;
+                        text-decoration: none;
+                        color: #FFFFFF;
+                    }
                 }
                 .users-tag{
                     padding: 12px 32px;

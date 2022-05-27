@@ -227,6 +227,11 @@ table {
         -ms-flex-pack: justify;
             justify-content: space-between;
   }
+  .container .choose .users .users-all a:hover {
+    background: #56C4C5;
+    text-decoration: none;
+    color: #FFFFFF;
+  }
   .container .choose .users .users-tag {
     padding: 12px 32px;
   }
